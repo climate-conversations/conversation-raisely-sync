@@ -1,0 +1,15 @@
+{
+  "name": "conversation-raisely-sync",
+  "version": "1.0.0",
+  "description": "Sync utility for conversations in Raisely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raisely <engineering@raisely.com> (https://github.com/raisely)",
+  "license": "NoHarm",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.7",
+    "yup": "^0.27.0"
+  }
+}
