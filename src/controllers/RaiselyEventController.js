@@ -12,6 +12,7 @@ const yup = require('yup');
 // So receives raisely events for
 // EventRsvp Created
 // Donation Updated
+// Event created
 // Event Updated
 
 const schema = {
